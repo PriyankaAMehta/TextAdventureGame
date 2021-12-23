@@ -1,0 +1,8 @@
+||||
+||||
+||||
+||Transition||
+|ZenPlanet|Space|TitanPlanet|
+||NidavellirPalent||
+||EmptySpace||
+|EmptySpace|MissilePlanet|Earthile|
